@@ -1,0 +1,5 @@
+﻿  2022 KAKAO BLIND 파괴되지 않은 건물.cpp
+D:\WorkSpace\C++\Algorithm\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물.cpp(20,23): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WorkSpace\C++\Algorithm\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물.cpp(21,29): warning C4267: '=': 'size_t'에서 'unsigned short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\WorkSpace\C++\Algorithm\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물\2022 KAKAO BLIND 파괴되지 않은 건물.cpp(24,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  2022 KAKAO BLIND 파괴되지 않은 건물.vcxproj -> D:\WorkSpace\C++\Algorithm\2022 KAKAO BLIND 파괴되지 않은 건물\Debug\2022 KAKAO BLIND 파괴되지 않은 건물.exe

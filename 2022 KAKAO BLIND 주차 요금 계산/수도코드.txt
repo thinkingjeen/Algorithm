@@ -1,0 +1,9 @@
+'기록들'을 훑으면서 일단 스트링을 쪼갬.
+시각을 기준으로 inCheck에 차번호와 시간을 넣음.
+
+쪼갠 스트링에 '내역'이 out 일 경우에 inCheck에서 찾아서 finalParkingTime에 최종 주차 시간을 저장함.
+만약 이미 finalParkingTime에 있다면 주차 시간을 증가시킴.
+
+out이 되지않은 남아있는 inCheck를 확인해서 23:59기준으로 주차 시간을 증가시킴.
+
+'기록들'이 끝나면 finalParkingTime으로 주차 시간에 따른 요금을 정산함.
